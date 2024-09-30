@@ -1,17 +1,17 @@
-# Laporan Proyek
+# Project Report
 
-## Deskripsi Proyek
+## Project Description
 
-Proyek ini bertujuan untuk memprediksi harga sewa rumah berdasarkan fitur-fitur seperti luas tanah, jumlah kamar, dan lokasi.
+This project aims to predict the rental price of houses based on features such as land area, number of rooms, and location.
 
 ## Dataset
 
 [House Rent Prediction Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset?select=House_Rent_Dataset.csv)
 
-## Metodologi
+## Methodology
 
-Melakukan analisis fitur dan preprocessing data, menggunakan model Linear Regression untuk prediksi.
+Perform feature analysis and data preprocessing, using Linear Regression model for prediction.
 
 ## Evaluasi Hasil
 
-Metrik evaluasi menggunakan Mean Squared Error (MSE) dan R-squared.
+Evaluation metrics using Mean Squared Error (MSE) and R-squared.
